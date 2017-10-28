@@ -1,0 +1,1 @@
+INSERT into simulation1 (name, price, image_url, shelf, bin) VALUES ( $1, $2, $3, $4, $5 );
